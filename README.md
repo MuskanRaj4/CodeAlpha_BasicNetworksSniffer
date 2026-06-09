@@ -43,5 +43,5 @@ Protocol:6
 This project helped me learn **Packet Sniffing**, **Network Monitoring**, and **Protocol Analysis** using Python.
 
 ## **Author**
-**Muskan RAJ**
+**Muskan Raj**
 
